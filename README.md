@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thmatchit
+- 👋 Hi, I’m Luiz Gomes, a Tech Hacker at Match<IT>
 - 👀 I’m interested in artificial intelligence.
 - 🌱 I’m currently learning ontology
 - 💞️ I’m looking to collaborate on match engine.
